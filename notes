@@ -29,3 +29,97 @@ Implement security awareness practices.
 
 OBJECTIVES
 https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-security-sy0-701-exam-objectives-(5-0).pdf
+
+
+
+official guide index
+Lesson 1: Comparing Security Roles and Security Controls........................................ 1
+Topic 1A: Compare and Contrast Information Security Roles.......................... 2
+Topic 1B: Compare and Contrast Security Control and Framework Types..... 8
+Lesson 2: Explaining Threat Actors and Threat Intelligence .................................... 17
+Topic 2A: Explain Threat Actor Types and Attack Vectors .............................. 18
+Topic 2B: Explain Threat Intelligence Sources.................................................. 25
+Lesson 3: Performing Security Assessments .............................................................. 35
+Topic 3A: Assess Organizational Security with Network
+Reconnaissance Tools..................................................................................... 36
+Topic 3B: Explain Security Concerns with General Vulnerability Types........ 50
+Topic 3C: Summarize Vulnerability Scanning Techniques .............................. 57
+Topic 3D: Explain Penetration Testing Concepts.............................................. 67
+Lesson 4: Identifying Social Engineering and Malware ............................................. 73
+Topic 4A: Compare and Contrast Social Engineering Techniques .................. 74
+Topic 4B: Analyze Indicators of Malware-Based Attacks ................................ 82
+Lesson 5: Summarizing Basic Cryptographic Concepts ............................................. 95
+Topic 5A: Compare and Contrast Cryptographic Ciphers................................ 96
+Topic 5B: Summarize Cryptographic Modes of Operation............................ 104
+Topic 5C: Summarize Cryptographic Use Cases and Weaknesses................ 111
+Topic 5D: Summarize Other Cryptographic Technologies............................. 120
+Lesson 6: Implementing Public Key Infrastructure ................................................. 125
+Topic 6A: Implement Certificates and Certificate Authorities ..................... 126
+Topic 6B: Implement PKI Management ........................................................... 137
+Table of Contents | iii
+Table of Contents
+Lesson 7: Implementing Authentication Controls................................................... 147
+Topic 7A: Summarize Authentication Design Concepts ................................ 148
+Topic 7B: Implement Knowledge-Based Authentication............................... 154
+Topic 7C: Implement Authentication Technologies....................................... 164
+Topic 7D: Summarize Biometrics Authentication Concepts ......................... 172
+Lesson 8: Implementing Identity and Account Management Controls................. 179
+Topic 8A: Implement Identity and Account Types ......................................... 180
+Topic 8B: Implement Account Policies ............................................................ 191
+Topic 8C: Implement Authorization Solutions................................................ 199
+Topic 8D: Explain the Importance of Personnel Policies ............................... 208
+Lesson 9: Implementing Secure Network Designs................................................... 215
+Topic 9A: Implement Secure Network Designs .............................................. 216
+Topic 9B: Implement Secure Switching and Routing ..................................... 227
+Topic 9C: Implement Secure Wireless Infrastructure.................................... 235
+Topic 9D: Implement Load Balancers .............................................................. 247
+Lesson 10: Implementing Network Security Appliances......................................... 255
+Topic 10A: Implement Firewalls and Proxy Servers....................................... 256
+Topic 10B: Implement Network Security Monitoring.................................... 268
+Topic 10C: Summarize the Use of SIEM............................................................ 275
+Lesson 11: Implementing Secure Network Protocols.............................................. 283
+Topic 11A: Implement Secure Network Operations Protocols..................... 284
+Topic 11B: Implement Secure Application Protocols..................................... 292
+Topic 11C: Implement Secure Remote Access Protocols............................... 301
+Lesson 12: Implementing Host Security Solutions................................................... 317
+Topic 12A: Implement Secure Firmware ......................................................... 318
+Topic 12B: Implement Endpoint Security........................................................ 325
+Topic 12C: Explain Embedded System Security Implications........................ 331
+iv | Table of Contents
+Table of Contents
+Lesson 13: Implementing Secure Mobile Solutions ................................................. 343
+Topic 13A: Implement Mobile Device Management ...................................... 344
+Topic 13B: Implement Secure Mobile Device Connections ........................... 356
+Lesson 14: Summarizing Secure Application Concepts ........................................... 365
+Topic 14A: Analyze Indicators of Application Attacks ................................... 366
+Topic 14B: Analyze Indicators of Web Application Attacks........................... 372
+Topic 14C: Summarize Secure Coding Practices ............................................. 383
+Topic 14D: Implement Secure Script Environments ...................................... 390
+Topic 14E: Summarize Deployment and Automation Concepts................... 399
+Lesson 15: Implementing Secure Cloud Solutions ................................................... 407
+Topic 15A: Summarize Secure Cloud and Virtualization Services ................ 408
+Topic 15B: Apply Cloud Security Solutions...................................................... 418
+Topic 15C: Summarize Infrastructure as Code Concepts .............................. 429
+Lesson 16: Explaining Data Privacy and Protection Concepts................................ 437
+Topic 16A: Explain Privacy and Data Sensitivity Concepts............................ 438
+Topic 16B: Explain Privacy and Data Protection Controls............................. 447
+Lesson 17: Performing Incident Response................................................................ 455
+Topic 17A: Summarize Incident Response Procedures.................................. 456
+Topic 17B: Utilize Appropriate Data Sources for Incident Response ........... 465
+Topic 17C: Apply Mitigation Controls............................................................... 475
+Lesson 18: Explaining Digital Forensics..................................................................... 483
+Topic 18A: Explain Key Aspects of Digital Forensics Documentation .......... 484
+Topic 18B: Explain Key Aspects of Digital Forensics Evidence Acquisition.... 490
+Lesson 19: Summarizing Risk Management Concepts ............................................ 499
+Topic 19A: Explain Risk Management Processes and Concepts ................... 500
+Topic 19B: Explain Business Impact Analysis Concepts................................. 508
+Table of Contents | v
+Table of Contents
+Lesson 20: Implementing Cybersecurity Resilience ................................................ 515
+Topic 20A: Implement Redundancy Strategies............................................... 516
+Topic 20B: Implement Backup Strategies ....................................................... 522
+Topic 20C: Implement Cybersecurity Resiliency Strategies.......................... 530
+Lesson 21: Explaining Physical Security .................................................................... 539
+Topic 21A: Explain the Importance of Physical Site Security Controls ........ 540
+Topic 21B: Explain the Importance of Physical Host Security Controls....... 548
+
