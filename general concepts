@@ -1,0 +1,128 @@
+1.0 General Security Concepts
+1.1
+1.2
+Compare and contrast various types of security controls.
+• Categories
+- Technical
+- Managerial
+- Operational
+- Physical
+• Control types
+- Preventive
+- Deterrent
+- Detective
+- Corrective
+- Compensating
+- Directive
+Summarize fundamental security concepts.
+• Confidentiality, Integrity, and
+Availability (CIA)
+• Non-repudiation
+• Authentication, Authorization, and
+Accounting (AAA)
+- Authenticating people
+- Authenticating systems
+- Authorization models
+• Gap analysis
+• Zero Trust
+- Control Plane
+o Adaptive identity
+o Threat scope reduction
+o Policy-driven access control
+o Policy Administrator
+o Policy Engine
+- Data Plane
+o Implicit trust zones
+o Subject/System
+o Policy Enforcement Point
+• Physical security
+- Bollards
+- Access control vestibule
+- Fencing
+- Video surveillance
+- Security guard
+- Access badge
+- Lighting
+- Sensors
+o Infrared
+o Pressure
+o Microwave
+o Ultrasonic
+• Deception and disruption
+technology
+- Honeypot
+- Honeynet
+- Honeyfile
+- Honeytoken
+Explain the importance of change management processes
+and the impact to security.
+• Business processes impacting
+security operation
+- Approval process
+- Ownership
+- Stakeholders
+- Impact analysis
+- Test results
+- Backout plan
+- Maintenance window
+- Standard operating procedure
+• Technical implications
+- Allow lists/deny lists
+- Restricted activities
+- Downtime
+- Service restart
+- Application restart
+- Legacy applications
+- Dependencies
+• Documentation
+- Updating diagrams
+- Updating policies/procedures
+• Version control
+Explain the importance of using appropriate cryptographic
+solutions.
+• Public key infrastructure (PKI)
+- Public key
+- Private key
+- Key escrow
+• Encryption
+- Level
+o Full-disk
+o Partition
+o File
+o Volume
+o Database
+o Record
+- Transport/communication
+- Asymmetric
+- Symmetric
+- Key exchange
+- Algorithms
+- Key length
+• Tools
+- Trusted Platform Module (TPM)
+- Hardware security module
+(HSM)
+- Key management system
+- Secure enclave
+• Obfuscation
+o Steganography
+o Tokenization
+o Data masking
+• Hashing
+• Salting
+• Digital signatures
+• Key stretching
+• Blockchain
+• Open public ledger
+• Certificates
+- Certificate authorities
+- Certificate revocation lists
+(CRLs)
+- Online Certificate Status
+Protocol (OCSP)
+- Self-signed
+- Third-party
+- Root of trust
+- Certificate signing request (CSR)
+generation
+- Wildcard
