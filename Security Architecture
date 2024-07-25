@@ -1,0 +1,151 @@
+Compare and contrast security implications of different
+architecture models.
+• Architecture and infrastructure
+concepts
+- Cloud
+o Responsibility matrix
+o Hybrid considerations
+o Third-party vendors
+- Infrastructure as code (IaC)
+- Serverless
+- Microservices
+- Network infrastructure
+o Physical isolation
+ ° Air-gapped
+o Logical segmentation
+o Software-defined
+ networking (SDN)
+- On-premises
+- Centralized vs. decentralized
+- Containerization
+- Virtualization
+- IoT
+- Industrial control systems (ICS)/
+supervisory control and data
+acquisition (SCADA)
+- Real-time operating system
+(RTOS)
+- Embedded systems
+- High availability
+• Considerations
+- Availability
+- Resilience
+- Cost
+- Responsiveness
+- Scalability
+- Ease of deployment
+- Risk transference
+- Ease of recovery
+- Patch availability
+- Inability to patch
+- Power
+- Compute
+Given a scenario, apply security principles to secure enterprise
+infrastructure.
+• Infrastructure considerations
+- Device placement
+- Security zones
+- Attack surface
+- Connectivity
+- Failure modes
+o Fail-open
+o Fail-closed
+- Device attribute
+o Active vs. passive
+o Inline vs. tap/monitor
+- Network appliances
+o Jump server
+o Proxy server
+o Intrusion prevention system
+(IPS)/intrusion detection system
+(IDS)
+o Load balancer
+o Sensors
+- Port security
+o 802.1X
+o Extensible Authentication
+Protocol (EAP)
+- Firewall types
+o Web application firewall
+(WAF)
+o Unified threat management
+(UTM)
+o Next-generation firewall
+(NGFW)
+o Layer 4/Layer 7
+• Secure communication/access
+- Virtual private network (VPN)
+- Remote access
+- Tunneling
+o Transport Layer Security (TLS)
+o Internet protocol security
+(IPSec)
+- Software-defined wide area
+network (SD-WAN)
+- Secure access service edge
+(SASE)
+• Selection of effective controls
+Compare and contrast concepts and strategies to protect data.
+Explain the importance of resilience and recovery in security
+architecture.
+• Data types
+- Regulated
+- Trade secret
+- Intellectual property
+- Legal information
+- Financial information
+- Human- and non-humanreadable
+• Data classifications
+- Sensitive
+- Confidential
+- Public
+- Restricted
+- Private
+- Critical
+• General data considerations
+- Data states
+o Data at rest
+o Data in transit
+o Data in use
+- Data sovereignty
+- Geolocation
+• Methods to secure data
+- Geographic restrictions
+- Encryption
+- Hashing
+- Masking
+- Tokenization
+- Obfuscation
+- Segmentation
+- Permission restrictions
+• High availability
+- Load balancing vs. clustering
+• Site considerations
+- Hot
+- Cold
+- Warm
+- Geographic dispersion
+• Platform diversity
+• Multi-cloud systems
+• Continuity of operations
+• Capacity planning
+- People
+- Technology
+- Infrastructure
+• Testing
+- Tabletop exercises
+- Fail over
+- Simulation
+- Parallel processing
+• Backups
+- Onsite/offsite
+- Frequency
+- Encryption
+- Snapshots
+- Recovery
+- Replication
+- Journaling
+• Power
+- Generators
+- Uninterruptible power supply
+(UPS)
